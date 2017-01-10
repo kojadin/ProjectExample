@@ -1,0 +1,135 @@
+{
+	"items": [{
+		"sku": "UE219AA51CAJETINA",
+		"name": "Apartman 1",
+		"price": {
+			"current": 49.99,
+			"original": 79.99,
+			"currency": "EUR"
+		},
+		"brand": "ZLATIBOR",
+		"image": "http://zlatibor-smestaj.rs/slike/apartmani/471/Zlatibor%20Smestaj%20471%20-%2002.jpg",
+		"published_at": "2015-09-22 17:43:12",
+		"is_active": true
+	}, {
+		"sku": "UE219AA51CAJETINA",
+		"name": "Apartman 2",
+		"price": {
+			"current": 69.99,
+			"original": 69.99,
+			"currency": "EUR"
+		},
+		"brand": "ZLATIBOR",
+		"image": "http://zlatibor-smestaj.rs/slike/apartmani/471/Zlatibor%20Smestaj%20471%20-%2001.jpg",
+		"published_at": "2015-09-02 10:35:07",
+		"is_active": true
+	}, {
+		"sku": "UE219AA28CAJETINA",
+		"name": "Apartman 3",
+		"price": {
+			"current": 76.50,
+			"original": 76.50,
+			"currency": "EUR"
+		},
+		"brand": "ZLATIBOR",
+		"image": "http://zlatibor-smestaj.rs/slike/apartmani/471/Zlatibor%20Smestaj%20471%20-%2003.jpg",
+		"published_at": "2015-09-14 17:04:57",
+		"is_active": true
+	}, {
+		"sku": "UE219AA28CAJETINA",
+		"name": "Apartman 4",
+		"price": {
+			"current": 35.0,
+			"original": 45.0,
+			"currency": "EUR"
+		},
+		"brand": "ZLATIBOR",
+		"image": "http://zlatibor-smestaj.rs/slike/apartmani/471/Zlatibor%20Smestaj%20471%20-%2004.jpg",
+		"published_at": "2015-09-22 17:59:20",
+		"is_active": true
+	}, {
+		"sku": "UE219AA28CAJETINA",
+		"name": "Apartman 5",
+		"price": {
+			"current": 55.0,
+			"original": 73.0,
+			"currency": "EUR"
+		},
+		"brand": "ZLATIBOR",
+		"image": "http://zlatibor-smestaj.rs/slike/apartmani/471/Zlatibor%20Smestaj%20471%20-%2005.jpg",
+		"published_at": "2015-09-05 00:38:47",
+		"is_active": true
+	}, {
+		"sku": "UE219AA29CAJETINA",
+		"name": "Apartman 6",
+		"price": {
+			"current": 59.0,
+			"original": 59.0,
+			"currency": "EUR"
+		},
+		"brand": "ZLATIBOR",
+		"image": "http://zlatibor-smestaj.rs/slike/apartmani/471/Zlatibor%20Smestaj%20471%20-%2006.jpg",
+		"published_at": "2015-09-02 10:13:31",
+		"is_active": true
+	}, {
+		"sku": "UE219AA29CAJETINA",
+		"name": "Apartman 7",
+		"price": {
+			"current": 95.99,
+			"original": 113.0,
+			"currency": "EUR"
+		},
+		"brand": "ZLATIBOR",
+		"image": "http://zlatibor-smestaj.rs/slike/apartmani/471/Zlatibor%20Smestaj%20471%20-%2007.jpg",
+		"published_at": "2015-09-09 00:50:25",
+		"is_active": true
+	}, {
+		"sku": "UE209AA29CAJETINA",
+		"name": "Apartman 8",
+		"price": {
+			"current": 48.0,
+			"original": 48.0,
+			"currency": "EUR"
+		},
+		"brand": "ZLATIBOR",
+		"image": "http://zlatibor-smestaj.rs/slike/apartmani/471/Zlatibor%20Smestaj%20471%20-%2008.jpg",
+		"published_at": "2015-04-17 09:03:19",
+		"is_active": true
+	}, {
+		"sku": "UE209AA29CAJETINA",
+		"name": "Apartman 9",
+		"price": {
+			"current": 69.99,
+			"original": 69.99,
+			"currency": "EUR"
+		},
+		"brand": "ZLATIBOR",
+		"image": "http://zlatibor-smestaj.rs/slike/apartmani/471/Zlatibor%20Smestaj%20471%20-%2009.jpg",
+		"published_at": "2015-09-02 10:05:58",
+		"is_active": true
+	}, {
+		"sku": "UE319AA29CAJETINA",
+		"name": "Apartman 10",
+		"price": {
+			"current": 69.99,
+			"original": 69.99,
+			"currency": "EUR"
+		},
+		"brand": "ZLATIBOR",
+		"image": "http://zlatibor-smestaj.rs/slike/apartmani/471/Zlatibor%20Smestaj%20471%20-%2010.jpg",
+		"published_at": "2015-09-17 17:44:46",
+		"is_active": true
+	}, {
+		"sku": "UE319AA29CAJETINA",
+		"name": "Apartman 11",
+		"price": {
+			"current": 100.99,
+			"original": 100.99,
+			"currency": "EUR"
+		},
+		"brand": "ZLATIBOR",
+		"image": "http://zlatibor-smestaj.rs/slike/apartmani/471/Zlatibor%20Smestaj%20471%20-%2012.jpg",
+		"published_at": "2015-09-17 17:44:46",
+		"is_active": false
+	}]
+}
